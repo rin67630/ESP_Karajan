@@ -1,4 +1,6 @@
 # ESP_Karajan
+"Thing different !" What is ESP-Karajan?  
+  
 ESP-Karajan is a kind of operating system for ESP 8266 and ESP32 devices, taking away unproductive tasks of   
 - initializing the processor,
 - WiFi connection,
