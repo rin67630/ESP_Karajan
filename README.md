@@ -10,7 +10,7 @@ ESP-Karajan is a kind of operating system for ESP 8266 and ESP32 devices, taking
 - communication between ESP devices,  
 - connection to a remote PC.    
   
-Starting with Karajan is the basement for powerful projects  
+Starting with Karajan is the basement for your powerful projects!  
 
 Karajan contains a collaborative scheduler written for ease of use and clarity easily accessible to non-programmers without IT gibberish.  
 It provides several levels of runtime processing:  
