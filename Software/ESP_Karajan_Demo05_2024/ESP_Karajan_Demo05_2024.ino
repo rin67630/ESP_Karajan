@@ -22,7 +22,7 @@ Thanks to the respective owners of all libraries used:
 -TelnetStream by Juraj Andrassy
 -INA226 by Rob Tillaart
 -InterpolationLib by Luis Llamas
--BuckPSU by bengineer19  https://blog.benjames.io/2018/06/29/secret-uart-on-chinese-dcdc-converters/
+
 
 The other libraries are the standard libs from Arduino, Espressif, Adafruit...
 
